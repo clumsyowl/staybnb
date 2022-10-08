@@ -90,7 +90,7 @@ nav {
 
 .search-bar form input {
   display: block;
-  border: 0;
+  border:none;
   outline: none;
   background: transparent;
 }
